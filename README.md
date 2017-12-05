@@ -20,6 +20,7 @@
 7. En el extremo inferior derecho se coloca dos botones circulares con fondo blanco las opción **+ y ?,** para instalación de app y para ayuda.
 8. Hay un efecto **hover** de manera general, al pasar el mouse por las diferentes opciones que nos muestra la página.
 9. El scroll  muestra funcionalidad de carga imagenes de  constante.
+
 ***
 
 ![Con titulo](assets/imagen1.jpg "imagen1")
