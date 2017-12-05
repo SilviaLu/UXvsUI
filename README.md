@@ -1,6 +1,5 @@
 ## UX vs UI  de Pinterest 
 
-***
 ## UX
 1. Muestra una barra al inicio donde puedes ingresar tu búsqueda.
 2. Al hacer click en la barra de búsqueda, te muestra tus búsquedas recientes.
@@ -23,6 +22,7 @@
 
 ***
 
+![Con titulo](assets/imagen6.jpg "imagen6")
 ![Con titulo](assets/imagen1.jpg "imagen1")
 ![Con titulo](assets/imagen2.jpg "imagen2")
 ![Con titulo](assets/imagen3.jpg "imagen3")
