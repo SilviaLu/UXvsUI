@@ -7,7 +7,7 @@
 3. Muestra imágenes que tus contactos han subido, dándolas como recomendadas, para revisarlas.
 4. Muestra las notificaciones de actividades recientes de los contactos a los que sigues. 
 5. Cuando eliges una imagen a guardar, te muestra imágenes relacionadas al tema, sugiriendote revisarlas, al igual que el album del contacto que las contiene.
-6. Cuando eliges la imagen a guardar te muestra sugerencias relacionadas al tema de la imagen elegida.
+6. La muestra de carga de imagenes al descender el scroll se muestra de manera constante.
 
 
 ## UI
@@ -20,3 +20,10 @@
 7. En el extremo inferior derecho se coloca dos botones circulares con fondo blanco las opción **+ y ?,** para instalación de app y para ayuda.
 8. Hay un efecto **hover** de manera general, al pasar el mouse por las diferentes opciones que nos muestra la página.
 9. El scroll  muestra funcionalidad de carga imagenes de  constante.
+***
+
+![Con titulo](assets/imagen1.jpg "imagen1")
+![Con titulo](assets/imagen2.jpg "imagen2")
+![Con titulo](assets/imagen3.jpg "imagen3")
+![Con titulo](assets/imagen4.jpg "imagen4")
+![Con titulo](assets/imagen5.jpg "imagen5")
